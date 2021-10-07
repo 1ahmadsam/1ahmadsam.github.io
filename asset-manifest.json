@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f738979c.chunk.css",
+    "main.js": "/static/js/main.920d4916.chunk.js",
+    "main.js.map": "/static/js/main.920d4916.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.4ce34f9c.chunk.js": "/static/js/2.4ce34f9c.chunk.js",
+    "static/js/2.4ce34f9c.chunk.js.map": "/static/js/2.4ce34f9c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.026997351fd87e0681d3ebc7b31ce525.js": "/precache-manifest.026997351fd87e0681d3ebc7b31ce525.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f738979c.chunk.css.map": "/static/css/main.f738979c.chunk.css.map",
+    "static/js/2.4ce34f9c.chunk.js.LICENSE.txt": "/static/js/2.4ce34f9c.chunk.js.LICENSE.txt",
+    "static/media/airbnb.jpg": "/static/media/airbnb.27467011.jpg",
+    "static/media/amazon.jpg": "/static/media/amazon.3fa9524f.jpg",
+    "static/media/covid_app.jpg": "/static/media/covid_app.efcea8a3.jpg",
+    "static/media/imessage.jpg": "/static/media/imessage.9fb428d4.jpg",
+    "static/media/Home.css": "/static/media/mountain-morning.1b3ea410.jpg",
+    "static/media/netflix.jpg": "/static/media/netflix.3a7197bb.jpg",
+    "static/media/reddit.jpg": "/static/media/reddit.112a1b9e.jpg",
+    "static/media/sami.jpg": "/static/media/sami.ff8d5e0c.jpg",
+    "static/media/spotify.jpg": "/static/media/spotify.2e742050.jpg",
+    "static/media/twitter.jpg": "/static/media/twitter.f8d06c0f.jpg",
+    "static/media/vacation.jpg": "/static/media/vacation.89f50755.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.4ce34f9c.chunk.js",
+    "static/css/main.f738979c.chunk.css",
+    "static/js/main.920d4916.chunk.js"
+  ]
+}
